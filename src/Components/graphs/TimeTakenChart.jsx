@@ -5,7 +5,7 @@ import { GiCuckooClock } from "react-icons/gi";
 function TimeTakenChart() {
   return (
     <div className='p-5'>
-      <div className='flex gap-4 ml-4'>
+      <div className='flex gap-4 ml-4 '>
       <div>
         <GiCuckooClock className='mt-1 text-2xl text-[#9a9898]'/>
       </div>

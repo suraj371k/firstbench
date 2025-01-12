@@ -18,7 +18,7 @@ To install the project, follow these steps:
     cd firstbench
     ```
 3. Install the dependencies:
-    ```sh
+    ```sh 
     npm install
     ```
 
